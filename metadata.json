@@ -1,0 +1,6 @@
+{
+  "name": "Vitalidade & Benefícios",
+  "description": "Gestão integrada de saúde corporativa, telemedicina e programa de cashback em benefícios.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
